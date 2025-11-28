@@ -1,0 +1,15 @@
+{
+  "name": "validity-output",
+  "version": "0.0.1",
+  "description": "An HTML custom built-in element to display validation messages in <output> elements.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "zacky@marchbox.com",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "vite": "^7.2.4"
+  }
+}
