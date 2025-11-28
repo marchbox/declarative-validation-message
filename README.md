@@ -1,4 +1,4 @@
-# Declarative Validation Message
+# Declarative validation messages Proposal
 
 Proposal for setting and displaying built-in and custom validation messages from
 HTML’s [Constraint Validation API](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Constraint_validation).

@@ -1,4 +1,4 @@
-# Proposal for declarative validation message
+# Declarative validation messages Proposal
 
 * Author: Zacky Ma <zacky@marchbox.com>, <zacky.ma@microsoft.com>
 * Last updated: 2025-09-01
